@@ -1,6 +1,8 @@
-# Personal Website
+# Thanh An's Portfolio
 
-The portfolio website built with Next.js, React, TypeScript, Tailwind CSS, GSAP, and Lenis.
+This is a personal portfolio website that I built for my friend, Le Van Thanh An.
+
+The site is built with Next.js, React, TypeScript, Tailwind CSS, GSAP, and Lenis.
 
 ## Requirements
 
@@ -9,10 +11,9 @@ The portfolio website built with Next.js, React, TypeScript, Tailwind CSS, GSAP,
 
 ## Run Locally
 
-From the repository root:
+From the project directory:
 
 ```bash
-cd web-dang-cap/next-app
 npm install
 npm run dev
 ```
